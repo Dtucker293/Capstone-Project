@@ -1,0 +1,69 @@
+Definition Statement:
+I want to build an application that facilitates connection and engagement within small-sized communities by providing a platform to share updates, create or join events, and foster relationships
+
+Define Your Audience:
+Community members of smaller communities or neighborhoods, including individuals looking to participate in local events, share updates, or connect with others.
+
+Outline the Content of the Application:
+Main Page:
+Text: Welcome, community posts, upcoming events.
+Images: Binoculars
+Navigation: About Us, Blog, Contact Us, and Calendar.
+Functionality: Overview of the site; displays recent blog updates and events.
+
+About Us Page:
+Mission statement, history of the platform
+
+Contact Us Page:
+Text: Contact form (name, email, message, call)
+Functionality: Form submission to email or a database.
+
+Blog Posts Page:
+Text:User statuses, announcements.
+Functionality: Users can post, edit, or delete their own updates.
+
+Interactive Calendar Page:
+Text: Event descriptions, participant lists.
+Images: Event category icons (e.g., sports, social, workshops).
+Functionality: Add, edit, or join events. Filter events by type or date.
+
+- Create and provide link to [User Story Map]
+  https://app.mural.co/t/savvy1184/m/savvy1184/1732809775536/a747b6f4435d573298ce3927f8dda55077c7e439
+
+Define Attributes:
+Color Palette: Grey (neutrality), Blue (trust), Yellow (energy and positivity).
+Images: Community-centric graphics, user-generated content.
+Fonts: Clean, modern sans-serif fonts like Roboto or Open Sans.
+Logo: Binoculars icon to symbolize observation and connection.
+Navigation: Sticky navbar with links to all pages and a search bar
+
+Research:
+Applications Researched:
+Reddit
+Meetup
+Facebook
+What I Like:
+Reddit: Easy navigation, clean design, effective user-generated content organization.
+Nextdoor: Community focus, event and post sharing.
+Meetup: Event-centric layout, RSVP functionality.
+
+What I Dislike:
+Reddit: Overwhelming for first-time users.
+Nextdoor: Limited customization options for smaller groups.
+Meetup: Lacks a strong sense of personalized community.
+
+How My Application Will Be Different:
+Combines the best features of these platforms while being hyper-local.
+Simplified interface tailored for small, non-technical communities.
+Interactive calendar fully integrated for event management.
+
+- Create wireframes and provide link for each page (minimum of 4-5 pages) including Home, About Me, Contact Us and 1-2 other pages demonstrating the specific functionality of your capstone's purpose
+  [
+](https://docs.google.com/document/d/10OmgQ2r_UAshY3MzVVdE1AGplOlMaFZzsU5rzPYaY0M/edit?tab=t.0)
+
+- Create and provide link to User Flow Diagram
+  in the same link as the wireframe
+
+- Create and provide link to [SWOT Analysis]
+[
+](https://docs.google.com/document/d/1HYwutjDd2DXr206y7Zb3mWJP1P7j7Odw/edit)
